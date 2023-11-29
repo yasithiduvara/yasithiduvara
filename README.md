@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/yash_idu" target="blank"><img src="https://img.shields.io/twitter/follow/yash_idu?logo=twitter&style=for-the-badge" alt="yash_idu" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://cdn-media-1.freecodecamp.org/images/3r5GeHOGt9ynexcspP9tiZdv1s3B0liJ5pO6" />
+
 - 🌱 I’m currently learning **C , Angular Js**
 
 - 📫 How to reach me **yasithiduvara@gmail.com**
